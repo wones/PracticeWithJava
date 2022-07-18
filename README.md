@@ -1,2 +1,2 @@
-# PracticeWithJava
+# PracticesWithJava
 使用Java进行实践...
